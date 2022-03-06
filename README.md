@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello I'm Saarthak Verma .
+
+I am currently studying B.Tech Computer Science and Artificial Intelligence in Indian Institute of Information Technology , Lucknow 😀
+Expected to graduate in 2025 🧑‍🎓
+I'm currently learning C++ and Kotlin 😎
+I have special interest in Problem solving , Software Development and Machine Learning.
