@@ -22,6 +22,7 @@ Hello I'm Saarthak Verma(He/Him).
 - I am currently a Software Development Intern at Intuit India.
 - I also have interests in Machine Learning, Deep Learning and Generative AI.
 
-Email: saarthakverma739@gmail.com
-[LinkedIn](https://www.linkedin.com/in/saarthak-verma-ba7375229/)
-[X/Twitter](https://x.com/Saavrm26)
+You can reach me through
+- Email: saarthakverma739@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/saarthak-verma-ba7375229/)  
+- [X/Twitter](https://x.com/Saavrm26)  
