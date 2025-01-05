@@ -13,9 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello I'm Saarthak Verma .
+Hello I'm Saarthak Verma(He/Him).
 
 - I am currently studying B.Tech Computer Science and Artificial Intelligence in Indian Institute of Information Technology , Lucknow 😀 
-- Expected to graduate in 2025 🧑‍🎓 
-- I'm currently learning C++ and Kotlin 😎  
-- I have special interest in Problem solving , Software Development and Machine Learning.  
+- I will graduate in June, 2025
+- I code in C / C++, Java, Python, Javascript/Typescript and Golang.
+- I like to do Problem solving (Expert on Codeforces).
+- I am currently a Software Development Intern at Intuit India.
+- I also have interests in Machine Learning, Deep Learning and Generative AI.
+
+Email: saarthakverma739@gmail.com
+[LinkedIn](https://www.linkedin.com/in/saarthak-verma-ba7375229/)
+[X/Twitter](https://x.com/Saavrm26)
