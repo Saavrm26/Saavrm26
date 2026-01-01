@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 -->
 Hello I'm Saarthak Verma(He/Him).
 
-- I am currently studying B.Tech Computer Science and Artificial Intelligence in Indian Institute of Information Technology , Lucknow 😀 
-- I will graduate in June, 2025
-- I code in C / C++, Java, Python, Javascript/Typescript and Golang.
-- I like to do Problem solving (Expert on Codeforces).
-- I am currently a Software Development Intern at Intuit India.
-- I also have interests in Machine Learning, Deep Learning and Generative AI.
+- Software Engineer 1 at Intuit
+- Pronouns: He, Him
+  
 
 You can reach me through
-- Email: saarthakverma739@gmail.com  
+- Email: saarthakverma739@gmail.com, saarthakverma739@saarthakdevelopstuff.xyz  
 - [LinkedIn](https://www.linkedin.com/in/saarthak-verma-ba7375229/)  
 - [X/Twitter](https://x.com/Saavrm26)  
